@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextCounter</string>
+    <string name="initText">文章を入力しボタンを押すと文字数を数えます</string>
+    <string name="calcButton">数える！</string>
+    <string name="result1" >文字数</string>
+    <string name="result2">改行を除いた文字数</string>
+    <string name="result3">改行・空白を除いた文字数</string>
+</resources>
